@@ -1,4 +1,8 @@
-<!--ai-->
+---
+human_edit_tracking:
+  enabled: true
+  history: []
+---
 # Trials
 
 ## Prepare one relative fixture
@@ -148,4 +152,3 @@ For four weeks, keep a private five-minute Friday diary:
 - whether its answer would have changed the decision.
 
 Build after the diary identifies at least three real decisions changed by uncaptured or uncertain evidence. Preserve only redacted versions of those failures as fixtures. The first milestone is a command that returns reproducible JSON load, source coverage, and evidence for one date range; the UI comes later.
-<!--/ai-->

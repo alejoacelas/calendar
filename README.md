@@ -1,4 +1,8 @@
-<!--ai-->
+---
+human_edit_tracking:
+  enabled: true
+  history: []
+---
 # calendar
 
 I want to ask “how busy will I be in the first week of September?” and get an answer that includes meetings, work implied by email or docs, uncertainty, and the amount of usable time left.
@@ -23,4 +27,3 @@ The build should not replace Google Calendar or Calendly. It should keep an evid
 - [Research method and sources](history/2026-07-26-research.md)
 
 Research checked 2026-07-26. Prices and young APIs will change; capability claims link to primary sources.
-<!--/ai-->
