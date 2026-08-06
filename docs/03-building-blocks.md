@@ -1,4 +1,8 @@
-<!--ai-->
+---
+human_edit_tracking:
+  enabled: true
+  history: []
+---
 # Composable parts
 
 Setup times below are planning guesses for an experienced developer with working provider accounts. They exclude vendor approval, OAuth verification, and empirical forecast calibration.
@@ -167,4 +171,3 @@ Keep allocation as plain deterministic TypeScript while constraints are one pers
 - Long-tail agent actions: Composio or Pipedream.
 - Calendar detail plus long-range pressure: FullCalendar plus Cal-Heatmap.
 - Enterprise scheduling above a $10,000/year infrastructure budget: evaluate Cronofy.
-<!--/ai-->
