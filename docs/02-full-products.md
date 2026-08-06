@@ -1,8 +1,4 @@
----
-human_edit_tracking:
-  enabled: true
-  history: []
----
+<!--ai-->
 # Full products
 
 ## Motion: best direct fit
@@ -85,3 +81,4 @@ It is useful for context and display. It performs no duration or capacity arithm
 - [Rise](https://risecalendar.com/) shut down on 2025-03-31.
 
 Do not build a workflow around either, even when older comparison pages still recommend them.
+<!--/ai-->

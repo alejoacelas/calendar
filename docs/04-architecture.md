@@ -1,8 +1,4 @@
----
-human_edit_tracking:
-  enabled: true
-  history: []
----
+<!--ai-->
 # Recommended architecture
 
 ## Keep evidence, commitments, and forecasts separate
@@ -196,3 +192,4 @@ Treat every email and document as hostile input:
 Adversarial fixtures must attempt to redefine the schema, invent confirmed work, request link or attachment access, overwrite a human decision, and invoke a write. Every result stays quarantined and unconfirmed; any tool call or confirmed-field change fails the build.
 
 Store OAuth refresh tokens in macOS Keychain or an equivalent secret manager, never the database or logs. Encrypt raw-content backups with a separately stored key; log IDs, hashes, timings, and errors rather than bodies. Define retention separately for raw bodies, redacted excerpts, forecasts, and audit events. Revoke provider tokens and delete local encrypted evidence on account deletion, then verify both operations and retain only a non-sensitive deletion receipt.
+<!--/ai-->

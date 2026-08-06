@@ -1,8 +1,4 @@
----
-human_edit_tracking:
-  enabled: true
-  history: []
----
+<!--ai-->
 # Decision
 
 ## The rule
@@ -71,3 +67,4 @@ Use them to discover missing commitments and explain a stored forecast, not to b
 - If more than 10% of high-pressure weeks are caused by uncaptured email, Docs, travel, or tentative work, a calendar/task-only system will stay misleading.
 - If a three-month horizon is sufficient, Motion or Reclaim can remain the planning surface. Beyond that, keep an owned forecast even if either product is used daily.
 - If only one person and one Google account matter, start with `gog + SQLite`; add hosted Postgres and remote MCP only when a remote client needs continuous access.
+<!--/ai-->
