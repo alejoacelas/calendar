@@ -1,8 +1,3 @@
----
-human_edit_tracking:
-  enabled: true
-  history: []
----
 # calendar
 
 I want to ask “how busy will I be in the first week of September?” and get an answer that includes meetings, work implied by email or docs, uncertainty, and the amount of usable time left.
